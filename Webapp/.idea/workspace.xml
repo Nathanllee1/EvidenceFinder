@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80dc2bdb-65e2-4678-a779-b693f3b35c52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Webappnondocker/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Webappnondocker/litsearch/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Webappnondocker/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webappnondocker/litsearch/classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Webappnondocker/static/litsearch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webappnondocker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Webappnondocker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webappnondocker/Webappnondocker/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Webappnondocker/Webappnondocker/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webappnondocker/litsearch/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Webappnondocker/litsearch/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webappnondocker/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Webappnondocker/templates/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
