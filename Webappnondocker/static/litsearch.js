@@ -1,4 +1,4 @@
-src='https://cdn.quilljs.com/1.3.6/quill.js';
+
 
 var quill = new Quill('#editor', {
     theme: 'bubble'
