@@ -1,16 +1,16 @@
-from nltk import tokenize
+
 import random
 
 
-def classify(text, theme):
-    splittext = tokenize.sent_tokenize(text)
+def classify(text):
+    splittext = text.split()
 
     highlighted = []
 
     #replaced with classifier
 
     for sentences in splittext:
-        test = random.randint(1)
+        test = random.randint(0, 5)
         if test == 0:
             highlighted.append(sentences)
     return highlighted

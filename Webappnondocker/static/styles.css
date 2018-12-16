@@ -3,4 +3,9 @@
     font-size: 20px;
     width: 80vh;
     background-color: white;
+    size: 100px;
+}
+
+.container {
+    display: grid
 }
