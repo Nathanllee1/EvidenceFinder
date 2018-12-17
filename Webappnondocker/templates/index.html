@@ -31,9 +31,9 @@
               if (change.length() > 0) {
                 console.log('Sent for ml', quill.getText());
                 $.post('/api/', {'text' : quill.getText()});
-                $.getJSON('/api/', function(data){
-                    format(
-                });
+                ///$.getJSON('/api/', function(data){
+                   /// console.log(data)
+                ///})
               }
             }, 1000);
         </script>
